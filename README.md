@@ -54,3 +54,6 @@ Equipes grandes tem como principal dor alta demanda de trabalho e contratam advo
 # Conclusão Final
  O gap realemnte está em empresas grandes que tem ausência ou um limite de orçamento para o seu time de advogados e não conseguem contratar advogados internos, por conta disso, elas tem uma taxa muito alta de contratar novamente o serviço, então manter uma boa relação e fidelizar clientes é uma boa. As caracteristicas que deixam essa categoria de empresas mais satisfeitas no serviço são: uma qualidade técnica alta, perfil de profissionais bom e agilidade e eficiência no serviço.
 
+
+ como é visto secondment, como a vizeu é vista
+
