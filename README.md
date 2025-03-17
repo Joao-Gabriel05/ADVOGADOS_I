@@ -50,6 +50,11 @@ o serviço tercerizado quando é contratado pelo motivo Demandas extraordinária
 
 Equipes grandes tem como principal dor alta demanda de trabalho e contratam advogados tercerizados principalmente por ausencia de orcamento para contratação internas. Para diferenciar o serviço da viseu, focar em melhorar quando o serviço é contratado por ter demandas extraordinárias de trabalho, que está atrelado a agilidade e rapidez que os clientes estão esperando. Focar em ter qualidade técnica e perfil bom de profissionais.
 
+A maioria dos clientes da vizeu tem empresas pequenas 
+
+O maior desafio dos clientes da Vizeu é equipe muito enuxta e limitação de orçamento 
+
+A maioria dos clientes da vizeu não contrataria o serviço de novo
 
 # Conclusão Final
  O gap realemnte está em empresas grandes que tem ausência ou um limite de orçamento para o seu time de advogados e não conseguem contratar advogados internos, por conta disso, elas tem uma taxa muito alta de contratar novamente o serviço, então manter uma boa relação e fidelizar clientes é uma boa. As caracteristicas que deixam essa categoria de empresas mais satisfeitas no serviço são: uma qualidade técnica alta, perfil de profissionais bom e agilidade e eficiência no serviço.
